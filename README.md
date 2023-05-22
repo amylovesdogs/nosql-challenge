@@ -9,7 +9,7 @@ The python code in **NoSQL_setup.ipynb** sets up the uk_food database with an es
 
 ## Part 2: Update the Database
  **NoSQL_setup.ipynb** updates the establishments collection as follows:
-1. Adds a new Halal restaurant called Penang Flavours, putting it under the business type Restaurant/Cave/Canteen.
+1. Adds a new Halal restaurant called Penang Flavours, putting it under the business type Restaurant/Cafe/Canteen.
 2. Removes any establishments from withing the Dover Local Authority.
 3. Converts latitude, and longtitude from strings to decimal numbers.
 4. Converts RatingValue from strings to integer numbers.
